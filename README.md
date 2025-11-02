@@ -36,8 +36,7 @@ The Nigerian car market shows a high concentration of value in specific vehicle 
 
 The overview highlights the scale and core characteristics of the vehicles in the market data.
 
-![Nigerian Car Market KPIs](YOUR_IMAGE_LINK_FOR_TOP_ROW_KPI_DASHBOARD_HERE)
-*(**Action:** Insert the image link for the top-row KPI cards: Price, Mileage, Horsepower, Engine Size.)*
+![Image](https://github.com/user-attachments/assets/7162e7a9-b8e9-4327-b978-13bd0b2a299c)
 
 
 #### Consumer Preference Deep Dive
@@ -46,8 +45,7 @@ The overview highlights the scale and core characteristics of the vehicles in th
 * **Driver's Choice:** **Manual transmission** cars hold a significant share of the market, a critical preference for inventory sourcing.
 * **Colour Preference:** The market shows a high demand for neutral and subdued colours (Black, Silver, White).
 
-![Top Models and Driver's Choice Charts](YOUR_IMAGE_LINK_FOR_MODELS_AND_TRANSMISSION_CHARTS_HERE)
-*(**Action:** Insert the image link for the **Top Ten most popular models** bar chart and the **Driver's Choice** circle/donut chart.)*
+![Image](https://github.com/user-attachments/assets/c64491e0-4f91-4e28-9bed-c8c8d61bfff4)
 
 
 #### Geographic and Sourcing Analysis
@@ -55,8 +53,7 @@ The overview highlights the scale and core characteristics of the vehicles in th
 * **Source Origin:** The market is predominantly fueled by **Foreign Used** vehicles rather than Nigeria Used or New vehicles.
 * **Regional Demand:** The map highlights which regions or states have the highest volume of listings/sales, crucial for logistics and distribution planning.
 
-![Market Source and Regional Map Charts](YOUR_IMAGE_LINK_FOR_MAP_AND_SOURCE_CHARTS_HERE)
-*(**Action:** Insert the image link for the **Regional Map** and the **Foreign Used/Nigeria Used** breakdown.)*
+![Image](https://github.com/user-attachments/assets/aeeafc5b-21a9-47b5-9c82-2840620fcb75)
 
 ## Business Recommendations
 
