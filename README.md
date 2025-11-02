@@ -1,3 +1,6 @@
+
+![Image](https://github.com/user-attachments/assets/9abb321d-6c73-48d6-b71a-9a6f77a8c763)
+
 ## Project Background
 
 The Nigerian automotive market is highly dynamic, characterized by diverse consumer preferences and a mix of imported used and new vehicles. A primary challenge for dealers and logistics firms is the **lack of clear, data-driven insights** into consumer choice, price elasticity, and optimal inventory sourcing.
