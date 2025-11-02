@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 * **Consumer Preference Segmentation:** Analysis of drivers' choices (manual vs. automatic), popular colours, and top vehicle models.
 * **Regional Market Share:** Assessment of sales distribution across Nigerian states to guide logistics and targeted marketing.
 
-* **Interactive Dashboard:** The full Market Insights dashboard can be accessed [here](LINK_TO_POWER_BI_DASHBOARD).
+* **Interactive Dashboard:** The full Market Insights dashboard can be accessed [here](https://docs.google.com/spreadsheets/d/1QBil_S5ty8TqIcipuFWWzrD_bquLGSG8/edit?usp=drivesdk&ouid=115085020504183931187&rtpof=true&sd=true).
 
  ## Data Structure & Initial Checks
 
