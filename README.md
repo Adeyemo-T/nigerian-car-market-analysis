@@ -1,5 +1,3 @@
-
-
 ## Project Background
 
 The Nigerian automotive market is highly dynamic, characterized by diverse consumer preferences and a mix of imported used and new vehicles. A primary challenge for dealers and logistics firms is the **lack of clear, data-driven insights** into consumer choice, price elasticity, and optimal inventory sourcing.
@@ -25,9 +23,10 @@ The entire data cleaning and preparation process was executed using native **Exc
 * **Aggregation (Pivot Tables):** **Pivot Tables were utilized extensively in Excel** to summarize raw data, calculate key metrics (like average price by model), and perform necessary aggregations before visualization in the dashboard.
 * **Missing Value Handling (Excel):** Addressed and investigated missing entries, particularly in geographical and specific model fields, to minimize data loss while preserving accuracy.
 * **Feature Engineering:** Created essential features required for the dashboard, such as segmenting the **Nigerian regions** and calculating the **Age of the vehicle** (using the *Year* column) to better reflect market value.
+![Image](https://github.com/user-attachments/assets/cc5ba1be-10ea-42ad-b3c5-f2e085a4bd27)
 
+![Image](https://github.com/user-attachments/assets/ddd8b0da-6de7-4b8d-90eb-cf617456c3bd)
 
-*(**Action:** Insert an image of the Pivot Table interface or a sample of the cleaned data in Excel.)*
 
 ## Executive Summary
 
